@@ -1,0 +1,66 @@
+/*!
+
+ =========================================================
+ * Material Kit - v2.0.4
+ =========================================================
+
+ * Product Page: https://www.creative-tim.com/product/devScss
+ * Copyright 2018 Creative Tim (http://www.creative-tim.com)
+
+ =========================================================
+
+ * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+ */
+
+ @import "devScss/variables";
+ @import "devScss/mixins";
+ @import "devScss/core-bootstrap";
+ @import "devScss/reboot";
+
+ // Core Components
+ @import "devScss/layout";
+ @import "devScss/buttons";
+ @import "devScss/misc";
+ @import "devScss/checkboxes";
+ @import "devScss/custom-forms";
+ @import "devScss/switches";
+ @import "devScss/radios";
+ @import "devScss/carousel";
+ @import "devScss/forms";
+ @import "devScss/input-group";
+ @import "devScss/list-group";
+ @import "devScss/nav";
+ @import "devScss/images";
+ @import "devScss/navbar";
+ @import "devScss/badges";
+ @import "devScss/alerts";
+ @import "devScss/pagination";
+ @import "devScss/pills";
+ @import "devScss/info-areas";
+ @import "devScss/type";
+ @import "devScss/tabs";
+ @import "devScss/tooltip";
+ @import "devScss/popover";
+ @import "devScss/modal";
+ @import "devScss/dropdown";
+ @import "devScss/drawer";
+ @import "devScss/progress";
+ @import "devScss/togglebutton";
+ @import "devScss/ripples";
+ @import "devScss/headers";
+ @import "devScss/footers";
+
+ // Cards
+ @import 'devScss/cards';
+ @import 'devScss/cards/card-carousel';
+ @import 'devScss/cards/card-login';
+ @import 'devScss/cards/card-plain';
+
+ // Core Plugins
+ @import 'devScss/plugins/plugin-datetime-picker';
+ @import 'devScss/plugins/plugin-nouislider';
+
+ // Sections and Example pages
+ @import "devScss/example-pages";
+ @import "devScss/responsive";
